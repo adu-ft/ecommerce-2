@@ -1,0 +1,6 @@
+{
+  "name": "Kov — Aero 01",
+  "description": "Kov Aero 01 lightweight everyday knit sneakers. Designed for all-day comfort, movement, and effortless style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
